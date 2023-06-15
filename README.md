@@ -1,5 +1,4 @@
 Определить, является ли число аделителем числа b? А наоборот? (Получить два ответа.)
-![6](https://github.com/Maxsafarov1/java.2/assets/128669573/83798c45-752d-4250-b132-6dfc587164f3)
 ![1](https://github.com/Maxsafarov1/java.2/assets/128669573/f7d14ca5-95cf-485b-ab2b-37c0767f8fe0)
 ![2](https://github.com/Maxsafarov1/java.2/assets/128669573/46d20777-fa79-4fb0-bad2-0cb4dbb9ea29)
 ![3](https://github.com/Maxsafarov1/java.2/assets/128669573/3b89a6b7-58bd-4f4c-83bd-4a183be6fff9)
