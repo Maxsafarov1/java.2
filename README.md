@@ -1,7 +1,7 @@
 Определить, является ли число аделителем числа b? А наоборот? (Получить два ответа.)
-
-![6](https://github.com/Maxsafarov1/java.2/assets/128669573/387c846e-72a0-429a-9797-f5db5acc4b8d)
-![5](https://github.com/Maxsafarov1/java.2/assets/128669573/650fccc9-ab57-444e-9b48-4f349db20bbb)
-![3](https://github.com/Maxsafarov1/java.2/assets/128669573/e7a0ba2e-2422-4f61-bb81-4aef63c57146)
-![2](https://github.com/Maxsafarov1/java.2/assets/128669573/1b6dc318-8b54-4b10-9319-e841585603a9)
-![1](https://github.com/Maxsafarov1/java.2/assets/128669573/d60ada53-2cfe-4acc-adc3-75776140d4cc)
+![6](https://github.com/Maxsafarov1/java.2/assets/128669573/83798c45-752d-4250-b132-6dfc587164f3)
+![1](https://github.com/Maxsafarov1/java.2/assets/128669573/f7d14ca5-95cf-485b-ab2b-37c0767f8fe0)
+![2](https://github.com/Maxsafarov1/java.2/assets/128669573/46d20777-fa79-4fb0-bad2-0cb4dbb9ea29)
+![3](https://github.com/Maxsafarov1/java.2/assets/128669573/3b89a6b7-58bd-4f4c-83bd-4a183be6fff9)
+![5](https://github.com/Maxsafarov1/java.2/assets/128669573/5e834dc3-b9cc-41fe-92d1-d47d2802a23f)
+![4](https://github.com/Maxsafarov1/java.2/assets/128669573/69434924-8179-45bd-a94a-19679f259914)
